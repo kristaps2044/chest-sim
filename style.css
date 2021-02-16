@@ -17,13 +17,14 @@ body{
     text-align: center;
     background-color: #022636;
     text-align: center;
-    width: 120px;
+    width: 150px;
     height: 66px;
     border-style: none;
     font-family:fantasy;
     font-size: inherit;  
     font-size: 30px;
     color:white;
+    
 
     
 }
@@ -39,9 +40,15 @@ body{
     background-color:#197391;
     border-style:unset;
     color: white;
-    
-    
+}
 
+footer{
+    position: fixed;
+    bottom: 0px;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    color: white;
 }
 
 
