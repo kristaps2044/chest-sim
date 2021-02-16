@@ -1,0 +1,49 @@
+.nav{
+    position: fixed;
+    width: 100%;
+    height:66px ;
+    background-color:#022636;
+    border-style: outset;
+    border-style: none;
+    min-width: 100%;
+    min-height:66px ;
+    
+      
+}
+body{
+    background-color: #022636;
+}
+ .navbutton{
+    text-align: center;
+    background-color: #022636;
+    text-align: center;
+    width: 120px;
+    height: 66px;
+    border-style: none;
+    font-family:fantasy;
+    font-size: inherit;  
+    font-size: 30px;
+    color:white;
+
+    
+}
+.navcontainer{
+    
+    display: flex;
+    align-items: flex-start;
+    justify-content:center ;
+  
+    
+}
+.navbutton:hover{
+    background-color:#197391;
+    border-style:unset;
+    color: white;
+    
+    
+
+}
+
+
+
+
