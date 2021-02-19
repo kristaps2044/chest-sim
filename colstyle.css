@@ -1,0 +1,186 @@
+article{
+    
+    margin:5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: repeat();
+    grid-row-gap: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #022636;
+    position:absolute;
+    flex-wrap: wrap;
+    top:10vh;
+    height: fit-content;
+    width:90%; 
+}
+.skini{
+    background-color: yellow;
+    width:250px;
+    height:280px;
+    text-align: center;
+    font-style: italic;
+    font-family: fantasy;
+    transition: transform .2s;
+    letter-spacing: 0.2em;
+    color: white;
+    
+}
+.skini:hover{
+    transform: scale(0.9);
+}
+#aatrox{
+    background-image: url(images/forchamp/aatrox.jpg);    
+}
+#ahri{
+    background-image: url(images/forchamp/ahri.jpg);
+}
+#akali{
+    background-image: url(images/forchamp/RiotX_ChampionList_akali.jpg);
+}
+#alistar{
+    background-image: url(images/forchamp/RiotX_ChampionList_alistar.jpg);
+}
+#amumu{
+    background-image: url(images/forchamp/RiotX_ChampionList_amumu.jpg);
+}
+#anivia{
+    background-image: url(images/forchamp/RiotX_ChampionList_anivia.jpg);
+}
+#annie{
+    background-image: url(images/forchamp/RiotX_ChampionList_annie.jpg);
+}
+#aphelios{
+    background-image: url(images/forchamp/Aphelios_0.jpg);
+    background-position: center;
+    background-size: 480px;
+    background-repeat: no-repeat;
+}
+#ashe{
+    background-image: url(images/forchamp/RiotX_ChampionList_ashe.jpg);
+}
+#aurelion{
+    background-image: url(images/forchamp/RiotX_ChampionList_aurelionsol.jpg);
+}
+#azir{
+    background-image: url(images/forchamp/RiotX_ChampionList_azir.jpg);
+}
+#bard{
+    background-image: url(images/forchamp/RiotX_ChampionList_bard.jpg);
+}
+#blitzcrank{
+    background-image: url(images/forchamp/RiotX_ChampionList_blitzcrank.jpg);
+}
+#brand{
+    background-image: url(images/forchamp/RiotX_ChampionList_brand.jpg);
+}
+#braum{
+    background-image: url(images/forchamp/RiotX_ChampionList_braum.jpg);
+}
+#caitlyn{
+    background-image: url(images/forchamp/RiotX_ChampionList_caitlyn.jpg);
+}
+#camile{
+    background-image: url(images/forchamp/RiotX_ChampionList_camille.jpg);
+}
+#cassiopeia{
+    background-image: url(images/forchamp/RiotX_ChampionList_cassiopeia.jpg);
+}
+#chogath{
+    background-image: url(images/forchamp/RiotX_ChampionList_chogath.jpg);
+}
+#corki{
+    background-image: url(images/forchamp/RiotX_ChampionList_corki.jpg);
+}
+#darius{
+    background-image: url(images/forchamp/RiotX_ChampionList_darius.jpg);
+}
+#diana{
+    background-image: url(images/forchamp/RiotX_ChampionList_diana.jpg);
+}
+#drmundo{
+    background-image: url(images/forchamp/RiotX_ChampionList_drmundo.jpg);
+}
+#draven{
+    background-image: url(images/forchamp/RiotX_ChampionList_draven.jpg);
+}#ekko{
+    background-image: url(images/forchamp/RiotX_ChampionList_ekko.jpg);
+}
+#elise{
+    background-image: url(images/forchamp/RiotX_ChampionList_elise.jpg);
+}
+#evelynn{
+    background-image: url(images/forchamp/RiotX_ChampionList_evelynn.jpg);
+}
+#ezreal{
+    background-image: url(images/forchamp/RiotX_ChampionList_ezreal.jpg);
+}
+#fiddlestick{
+    background-image: url(images/forchamp/RiotX_ChampionList_fiddlesticks.jpg);
+}
+#fiora{
+    background-image: url(images/forchamp/RiotX_ChampionList_fiora.jpg);
+}
+#fizz{
+    background-image: url(images/forchamp/RiotX_ChampionList_fizz.jpg);
+}
+#galio{
+    background-image: url(images/forchamp/RiotX_ChampionList_galio.jpg);
+}
+#gangplank{
+    background-image: url(images/forchamp/RiotX_ChampionList_gangplank.jpg);
+}
+#garen{
+    background-image: url(images/forchamp/RiotX_ChampionList_garen.jpg);
+}
+#gnar{
+    background-image: url(images/forchamp/RiotX_ChampionList_gnar.jpg);
+}
+#gragas{
+    background-image: url(images/forchamp/RiotX_ChampionList_gragas.jpg);
+}
+#graves{
+    background-image: url(images/forchamp/RiotX_ChampionList_graves-cigar.jpg);
+}
+#hecarim{
+    background-image: url(images/forchamp/RiotX_ChampionList_hecarim.jpg);
+}
+#heimerdinger{
+    background-image: url(images/forchamp/RiotX_ChampionList_heimerdinger.jpg);
+}
+#illaoi{
+    background-image: url(images/forchamp/RiotX_ChampionList_illaoi.jpg);
+}
+#irelia{
+    background-image: url(images/forchamp/RiotX_ChampionList_irelia.jpg);
+}
+#ivern{
+    background-image: url(images/forchamp/RiotX_ChampionList_ivern.jpg);
+}
+#janna{
+    background-image: url(images/forchamp/RiotX_ChampionList_janna.jpg);
+}
+#jarvan{
+    background-image: url(images/forchamp/RiotX_ChampionList_jarvaniv.jpg);
+}
+#jax{
+    background-image: url(images/forchamp/RiotX_ChampionList_jax.jpg);
+}
+#jayce{
+    background-image: url(images/forchamp/RiotX_ChampionList_jayce.jpg);
+}
+#jhin{
+    background-image: url(images/forchamp/RiotX_ChampionList_jhin.jpg);
+}
+#jinx{
+    background-image: url(images/forchamp/RiotX_ChampionList_jinx.jpg);
+}
+#kaisa{
+    background-image: url(images/forchamp/RiotX_ChampionList_kaisa.jpg);
+}
+#kalista{
+    background-image: url(images/forchamp/RiotX_ChampionList_kalista.jpg);
+}
+#karma{
+    background-image: url(images/forchamp/RiotX_ChampionList_karma.jpg);
+}
