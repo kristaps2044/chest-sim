@@ -14,33 +14,7 @@
     height: fit-content;
     width:90%; 
 }
-.champbox{
-    width: 260px;
-    height: 350px;
-    background-color: chartreuse;
-}
-.picture{
-    display: block;
-    width: 260px;
-    height:300px;
-}
-.champname{
-    text-align: left;
-    display: block;
-    width:260px;
-    height:50px;
-    transition: 0.5s;
-    overflow: visible;
-    background-color: #023036;
-}
-.textstyle{
-    margin: 5%;
-    font-family: fantasy;
-    letter-spacing: 0.3em;
-    font-size: 30px;
-    margin-top: 20px;
-}
-.champbox:hover{
-  
-}
-    
+
+
+
+
